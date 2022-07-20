@@ -1,0 +1,41 @@
+
+
+.editor{
+    display: block;
+    width:50%;
+    margin:2rem auto;
+  }
+
+.preview{
+    display: block;
+    width:70%;
+    margin:2rem auto;
+}
+
+ .minimized{
+    height: 300px;
+  }
+  
+  .maximized{
+    height:100vh;
+  }
+
+  .hidden{
+    display:none;
+  }
+
+  .markdownEditor{
+    width:99%;
+    height:99%;
+  }
+ 
+.previewWindow{
+    border: 2px solid black;
+    overflow: scroll;
+    height:99%;
+    width:99%;
+}
+ 
+.fa-compress{
+    color:blue;
+}
